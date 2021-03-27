@@ -25,6 +25,7 @@ body {
 .nav {
   position: fixed;
   background-color: #222;
+  opacity: 0.8;
   top: 0;
   left: 0;
   right: 0;
@@ -69,7 +70,6 @@ body {
 .nav a.current,
 .nav a:hover {
   color: #c0392b;
-  font-weight: bold;
 }
 /* End: Navbar */
 
