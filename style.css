@@ -63,3 +63,19 @@ body {
   letter-spacing: 1px;
 }
 /* End: Hero Section */
+
+/* Start: Content Section */
+.content h2,
+.content h3 {
+  font-size: 150%;
+  margin: 20px 0;
+  text-transform: uppercase;
+}
+
+.content p {
+  color: #555;
+  line-height: 30px;
+  letter-spacing: 1.5px;
+}
+
+/* End: Content Section */
